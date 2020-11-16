@@ -11,6 +11,7 @@ font-family: 'Sacramento', cursive;
 font-family: 'Siemreap', cursive;
 *************************************/
 body {
+  font-size: 1.125rem;
   color: #40514E;
   margin: 0;
   text-align: center;
@@ -29,7 +30,7 @@ h1 {
 h2 {
   font-family: 'Preahvihear', Montserrat, sans-serif;
   color: #66BFBF;
-  font-size: 1.125rem;
+  font-size: 1.625rem;
   font-weight: normal;
   padding-bottom: 30px;
   margin-bottom: 0;
@@ -45,7 +46,7 @@ p {
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #68b0ab 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -106,7 +107,7 @@ a:hover {
 .cloud-bottom {
   position: absolute;
   top: 200px;
-  left: 350px;
+  left: 100px;
   bottom: 300px;
 }
 
@@ -128,6 +129,12 @@ a:hover {
   width: 25%;
   float: left;
   margin-right: 30px;
+}
+.dosage {
+  font-family: 'Preahvihear', Montserrat, sans-serif;
+  color: #11999E;
+  font-weight: bold;
+
 }
 
 .chillies-img {
